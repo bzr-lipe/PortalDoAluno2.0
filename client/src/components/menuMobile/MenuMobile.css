@@ -1,0 +1,27 @@
+.menu-mobile {
+    position: absolute;
+    background-color: var(--magenta);
+    padding-left: 30px;
+    width: 80%;
+}
+
+.menu-mobile-list{
+    list-style: none;
+
+}
+
+.mobile-list-item{
+    background-color: antiquewhite;
+    padding: 30px 0;
+    font-family: 'Gotham HTF Book';
+    color: var(--white);
+    font-size: 20px;
+}
+
+.mobile-list-item:hover {
+    background-color: var(--white);   
+}
+
+.active {
+
+}
